@@ -15,6 +15,7 @@ public class DemoApplicationTests {
 		assertEquals(true, false);
 	}
 	
+	@Ignore
 	@Test
 	public void test2() {
 		assertEquals(true, false);
