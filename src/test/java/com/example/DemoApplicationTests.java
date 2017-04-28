@@ -12,7 +12,7 @@ public class DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		fail("not yet impemented");
+		assertEquals(true, false);
 	}
 
 }
