@@ -14,5 +14,9 @@ public class DemoApplicationTests {
 	public void contextLoads() {
 		assertEquals(true, false);
 	}
+	
+	@Test
+	public void test2() {
+		assertEquals(true, false);
 
 }
